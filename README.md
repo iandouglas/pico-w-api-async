@@ -6,7 +6,8 @@ This project was started with a desire to turn a Briksmax light kit for the Lego
 
 Here it is in action:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Successful stream tonight, albeit with some pretty newb soldering skills, but our !pewpew chat command works great!<br>Now to get the RPi Pico to run the code without needing to be plugged into the PC... <a href="https://t.co/tBpbERUAuz">pic.twitter.com/tBpbERUAuz</a></p>&mdash; w. ian douglas 🇨🇦🇺🇸🥑🎙️ (@iandouglas736) <a href="https://twitter.com/iandouglas736/status/1611237264490901505?ref_src=twsrc%5Etfw">January 6, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Successful stream tonight, albeit with some pretty newb soldering skills, but our !pewpew chat command works great!<br>Now to get the RPi Pico to run the code without needing to be plugged into the PC... <a href="https://t.co/tBpbERUAuz">pic.twitter.com/tBpbERUAuz</a></p>&mdash; w. ian douglas 🇨🇦🇺🇸🥑🎙️ (@iandouglas736) <a href="https://twitter.com/iandouglas736/status/1611237264490901505?ref_src=twsrc%5Etfw">January 6, 2023</a></blockquote>
+
 
 ## requirements
 
